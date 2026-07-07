@@ -11,7 +11,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "^5.1.1",
+    "@vitejs/plugin-react": "^6.0.3",
     "firebase": "^12.7.0",
     "lucide-react": "^0.561.0",
     "react": "^19.2.1",
