@@ -1,16 +1,21 @@
 # Health Info
 
-Portal educativo de saude para estudo, prevencao e organizacao de informacoes por sistemas do corpo. Esta versao substitui o antigo prototipo Android por uma aplicacao web em React + TypeScript + Three.js.
+Portal educativo de saude para estudo, prevencao e organizacao de informacoes por sistemas do corpo. Esta versao substitui o antigo prototipo Android por uma aplicacao web em React + TypeScript + Three.js, com visualizacao anatomica interativa, medicamentos, treinos e guias educativos.
 
 ## O que tem agora
 
 ![Health Info portal](docs/img/health-info-portal.png)
 
 - Atlas 3D interativo do corpo humano para selecionar regioes de estudo.
+- Interface escura de dashboard com navegacao lateral, busca, camadas anatomicas e paineis clinicos.
 - Biblioteca inicial de condicoes por categoria: cardiovascular, metabolica, respiratoria, saude mental, infecciosa e prevencao.
 - Modulo TreinoLivre integrado com planos curtos de atividade preventiva.
 - Login opcional com Google e salvamento simples de sessoes no Firestore.
 - Sem Storage e sem upload de historico sensivel.
+
+## Origem da ideia
+
+Parte da ideia em desenvolvimento deste app foi voltada, antes de tudo, ao periodo em que estive na faculdade da Uni9, em complemento de um projeto de um semestre fechado a elaboracao de novas ideias e negocios criativos.
 
 ## Rodar localmente
 
